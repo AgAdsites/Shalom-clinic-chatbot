@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 });
 
 console.log("[ROUTER] Mounting /api router");
-app.use('/api', (req, res, next) => {
+app.use('/chat', (req, res, next) => {
     console.log(`[API ENTRY] ${req.method} ${req.originalUrl}`);
     next();
 }, chatRouter);

@@ -3,7 +3,7 @@ import GeminiProvider from './geminiProvider.js';
 import RagService from './RAG.js';
 
 const router = express.Router();
-router.post('', async (req, res) => {
+router.post('/', async (req, res) => {
   try {
     const { message } = req.body;
     if (!message) {
