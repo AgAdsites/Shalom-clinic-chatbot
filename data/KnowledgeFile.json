@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are your clinic opening hours?",
+    "answer": "We are open Monday to Saturday from 8:00 AM to 9:00 PM. The clinic is closed on Sundays."
+  },
+  {
+    "question": "Where is Shalom Physicare located?",
+    "answer": "Shalom Physicare Clinic is located in Thirumullaivoyal, Chennai, Tamil Nadu."
+  },
+  {
+    "question": "What types of physiotherapy services do you provide?",
+    "answer": "We provide orthopedic, sports, neurological, and musculoskeletal physiotherapy along with pain management and rehabilitation services."
+  },
+  {
+    "question": "What modalities are available at your clinic?",
+    "answer": "We offer TENS, IFT, ultrasound therapy, traction therapy, electrotherapy, manual therapy, exercise therapy, and rehabilitation programs."
+  },
+  {
+    "question": "Do you treat back pain?",
+    "answer": "Yes, we specialize in treating upper back, mid back, and lower back pain including disc-related and posture-related conditions."
+  },
+  {
+    "question": "Do you provide treatment for neck pain and cervical issues?",
+    "answer": "Yes, we treat cervical spondylosis, neck strain, stiffness, and nerve-related neck conditions."
+  },
+  {
+    "question": "Do you handle sports injuries?",
+    "answer": "Yes, we provide rehabilitation for sports injuries including ligament injuries, muscle tears, sprains, and post-surgical recovery."
+  },
+  {
+    "question": "Do you offer rehabilitation after surgery?",
+    "answer": "Yes, we provide post-operative rehabilitation programs for joint replacement, ligament reconstruction, fracture recovery, and other surgeries."
+  },
+  {
+    "question": "Do you treat knee pain?",
+    "answer": "Yes, we treat arthritis, ligament injuries, meniscus injuries, and general knee pain conditions."
+  },
+  {
+    "question": "Do you provide physiotherapy for shoulder pain?",
+    "answer": "Yes, we treat frozen shoulder, rotator cuff injuries, impingement syndrome, and post-injury stiffness."
+  },
+  {
+    "question": "Do you treat neurological conditions?",
+    "answer": "Yes, we provide rehabilitation for stroke patients, cerebral palsy, paralysis, and other neurological disorders."
+  },
+  {
+    "question": "Do you provide home visit physiotherapy?",
+    "answer": "Please contact the clinic directly to check availability of home visit physiotherapy services."
+  },
+  {
+    "question": "How long does each physiotherapy session last?",
+    "answer": "A typical physiotherapy session lasts between 30 to 60 minutes depending on the treatment plan."
+  },
+  {
+    "question": "How many sessions will I need?",
+    "answer": "The number of sessions depends on your condition, severity, and response to treatment. Your physiotherapist will create a customized plan."
+  },
+  {
+    "question": "Is physiotherapy painful?",
+    "answer": "Physiotherapy treatments are generally safe and controlled. Some discomfort may occur during exercises but it is usually manageable."
+  },
+  {
+    "question": "Do I need a doctor's referral for physiotherapy?",
+    "answer": "In most cases, you can directly consult a physiotherapist without a referral, but certain insurance policies may require one."
+  },
+  {
+    "question": "What should I bring for my first visit?",
+    "answer": "Please bring any medical reports, scan results, prescriptions, and wear comfortable clothing suitable for movement."
+  },
+  {
+    "question": "Do you provide exercise programs for weight loss or fitness?",
+    "answer": "Yes, we offer therapeutic exercise and fitness programs tailored to individual health goals."
+  },
+  {
+    "question": "Do you treat arthritis patients?",
+    "answer": "Yes, we help manage osteoarthritis and rheumatoid arthritis with pain relief techniques and strengthening exercises."
+  },
+  {
+    "question": "Can physiotherapy help with posture correction?",
+    "answer": "Yes, we provide posture assessment and corrective exercise programs to improve alignment and reduce pain."
+  },
+  {
+    "question": "How can I book an appointment?",
+    "answer": "You can book an appointment by calling the clinic directly or using the contact details provided on our website."
+  },
+  {
+    "question": "Do you provide treatment for sciatica?",
+    "answer": "Yes, we treat sciatica using manual therapy, nerve mobilization techniques, and strengthening exercises."
+  },
+  {
+    "question": "Is physiotherapy safe for elderly patients?",
+    "answer": "Yes, physiotherapy is safe and highly beneficial for elderly patients when performed under professional supervision."
+  },
+  {
+    "question": "Do you provide treatment for frozen shoulder?",
+    "answer": "Yes, we use mobilization techniques, electrotherapy, and exercise therapy to treat frozen shoulder."
+  },
+  {
+    "question": "Do you treat ankle sprains and ligament injuries?",
+    "answer": "Yes, we provide rehabilitation for ankle sprains, ligament tears, and balance training programs."
+  }
+]
